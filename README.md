@@ -1,5 +1,8 @@
 # 狗屁不通文章生成器
 
+![](https://img.shields.io/github/stars/xuhuading/ShitArticleBuilder)
+![](https://img.shields.io/github/downloads/xuhuading/ShitArticleBuilder)
+
 偶尔需要一些中文文字用于GUI开发时测试文本渲染. __本项目只做这一项, 请勿用于其他任何用途__.
 Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 
