@@ -1,6 +1,6 @@
 # 狗屁不通文章生成器
 
-![](https://img.shields.io/github/stars/xuhuading/ShitArticleBuilder)
+![](https://img.shields.io/github/stars/xuhuading/ShitArticleBuilder?style=flat-square)
 ![](https://img.shields.io/chocolatey/dt/download?color=green&label=downloads&logo=downloads&logoColor=red&style=flat-square)
 ![](https://img.shields.io/badge/Studio-SkyTown-blue?style=flat-square)
 
