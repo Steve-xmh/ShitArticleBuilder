@@ -2,8 +2,10 @@
 
 ![](https://img.shields.io/github/stars/xuhuading/ShitArticleBuilder?style=flat-square)
 ![](https://img.shields.io/chocolatey/dt/download?color=green&label=downloads&logo=downloads&logoColor=red&style=flat-square)
+
 ![](https://img.shields.io/badge/Studio-SkyTown-blue?style=flat-square)
 [![](https://img.shields.io/badge/blog-@RedSun-green.svg?style=flat-square)](https://www.cnblogs.com/xuhuading/)
+[![](https://img.shields.io/badge/作者-@RedSun-green.svg?style=flat-square)](https://xuhuading.github.io/)
 
 偶尔需要一些中文文字用于GUI开发时测试文本渲染. __本项目只做这一项, 请勿用于其他任何用途__.
 Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
